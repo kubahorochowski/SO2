@@ -1,6 +1,6 @@
 /*
 (1) Temat: Kasyno
-(2)Dane studenta: Kuba Horochowski 241154
+(2)Dane studenta: Kuba Horochowski
 (3) Opis zasobów/wątków:
 Wątki: Klienci kasyna (kilka/kilkanaście)
 Krupierzy (kilka)
